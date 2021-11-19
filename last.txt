@@ -1,0 +1,11 @@
+this is our short method of streaming
+my name is sudheer 
+i live in bhiwnai
+bhiwani is in haryana 
+haryana is in india
+nxdjxmy name is sudheer 
+i live in bhiwnai
+bhiwani is in haryana 
+haryana is in india
+nxdjxsjzdbkjsbdvjksndvk.
+with the help of stream.pipe() method
